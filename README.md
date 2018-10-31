@@ -8,4 +8,5 @@ Getting Started with ArUco:
     1. Generate Markers
     2. Detect Markers
     3. Calibrate Camera
-    4. Draw Axis of Marker. 
+    4. Correkt a Camera Picture with Calibrated File. 
+    5. Draw Axis of Marker. 
